@@ -5,10 +5,10 @@ h1 {
   font-size: 72px;
 }
 
-p {
+h2 {
   color: #00008B;
   text-align: center;
-  font-size: 20px;
+  font-size: 40px;
   font-family: serif;
   font-style: italic;
 }
@@ -21,4 +21,22 @@ img {
 
 body {
   background-color: #99CCCC;
+}
+
+ul {
+  font-family: sans-serif;
+  font-size: 18px;
+  list-style-type: none;
+}
+
+li {
+  text-align: center;
+}
+
+p {
+  color: #00008B;
+  text-align: center;
+  font-size: 25px;
+  font-family: serif;
+  font-style: italic;
 }
